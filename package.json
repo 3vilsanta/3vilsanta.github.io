@@ -1,0 +1,28 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "my portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidgualvez/davidgualvez.github.io.git"
+  },
+  "keywords": [
+    "david",
+    "gualvez"
+  ],
+  "author": "David Gualvez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidgualvez/davidgualvez.github.io/issues"
+  },
+  "homepage": "https://github.com/davidgualvez/davidgualvez.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1",
+    "scrollreveal": "^4.0.5"
+  }
+}
